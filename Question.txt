@@ -1,0 +1,36 @@
+1. Reverse String
+2. Palindrome
+3. Vowel and consonant count
+4. No of occurrence of pattern in string
+5. No of words
+6. sorting
+7. Anagram
+8. Change two string
+9. Capitalize first letter
+10. Validate if a string contains only alphabetic characters (no digits or special characters).
+11. remove duplicate character
+12. remove digit
+13. count no of times each character present
+14. Print ASCII code of each character of string
+15. Print Upper case characters in Java
+16. Count Lower case characters in Java
+17. Create new string with digits first and then characters
+18. Remove spaces in a string
+19. Reverse the case of string in Java
+20. Piglatin in Java
+21. Encoding in Java by shifting characters by 2
+22. Print the first character of each word in a sentence
+23. Print the first 2 characters of each word in a sentence
+24. Print a word starting with a particular letter or string
+25. - Print word ending with a particular letter or string
+26. Print word containing a particular letter or string
+27. Print words having particular number of characters
+28. Printing string with special characters
+29. Find longest word in a sentence in Java
+30. Find a particular word in a string
+31. Count number of words in a sentence in Java
+32. Count number of words ending with a particular letter
+33. Changing a word with another in Java
+34. Deleting a word in java
+35. Changing case of word in Java
+36. Swap first and last letter of each word in Java

@@ -11,4 +11,3 @@ public class PatternOccourance_4 {
             System.out.println("Number of occurrences: " + count);
         }
     }
-

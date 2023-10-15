@@ -1,15 +1,15 @@
-public class WordContainingParticularLetter_26 {
+public class WordEndingWithParticularLetter_25 {
     public static void main(String[] args) {
-        String str = "hello hello made good product";
+        String str = "hello orlo hello and tilo made good product";
         String x = "lo";
         String strarr[] = str.split(" ");
         int count = 0;
         for (String words : strarr) {
-            if (words.contains(x)) {
+            if (words.endsWith(x)) {
                 System.out.println(words);
                 count++;
             }
         }
-        System.out.println("Number of words having with the character " + x + " is " + count);
+        System.out.println("Number of words ends with the character " + x + " is " + count);
     }
 }
